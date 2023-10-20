@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ErgoBoard-rescue")(type "Legacy")(uri "/Users/tjcampie/Dropbox/keyboard projects/Le Chiffre/Le Chiffre v3-rescue.lib")(options "")(descr ""))
+  (lib (name "LeChiffre-rescue")(type "Legacy")(uri "${KIPRJMOD}/Le Chiffre v3-rescue.lib")(options "")(descr ""))
+  (lib (name "Le Chiffre v3-rescue")(type "KiCad")(uri "${KIPRJMOD}/Le Chiffre v3-rescue.kicad_sym")(options "")(descr ""))
+)
